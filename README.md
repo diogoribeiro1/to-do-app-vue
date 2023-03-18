@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### To run the backend of the application
+
+Clone and setup this repository: https://github.com/diogoribeiro1/api-todo-list-spring-kotlin.git
+
+https://user-images.githubusercontent.com/89152312/226131151-a58f6398-ac41-4e8b-a443-2eb946d7da19.mp4
